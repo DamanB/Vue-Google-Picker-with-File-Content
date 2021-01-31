@@ -14,12 +14,12 @@ After cloning this project, several steps are still needed to setup the applicat
 1. Ensure you have a project setup on the [Google API Console](https://console.developers.google.com). On this project, generate an API key and a OAuth 2.0 Client ID. Follow the article in the Development tab for help on this. 
 
 2. The following 2 APIs must be enabled on the project using the API console
-  - Google Picker API
-  - Google Drive API
+   - Google Picker API
+   - Google Drive API
   
 3. In the Vue component found here, "/src/GDriveSelector.vue" make the following changes to the data(),
-  - set developerKey to your API Key
-  - set clientID to your Client ID
+   - set developerKey to your API Key
+   - set clientID to your Client ID
 
 4. In a terminal, run the command below to install dependencies
 ```
