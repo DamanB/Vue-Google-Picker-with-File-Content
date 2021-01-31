@@ -17,7 +17,7 @@ After cloning this project, several steps are still needed to setup the applicat
    - Google Picker API
    - Google Drive API
   
-3. In the Vue component found here, "/src/GDriveSelector.vue" make the following changes to the data(),
+3. In the Vue component found here, /src/components/GDriveSelector.vue make the following changes to the data(),
    - set developerKey to your API Key
    - set clientID to your Client ID
 
