@@ -29,6 +29,10 @@ npm install
 ```
 npm run serve
 ```
+## What I Learned
+- Utilizing Google Cloud Platform
+- Google Picker API
+   - Acquire content of file from user's Google Drive
   
 
 
